@@ -21,7 +21,7 @@ gsap.registerPlugin(ScrollTrigger);
 const BIRTHDAY_DATE = new Date('2026-07-03T00:00:00');
 const NAME = 'Cantikk';
 const SENDER_NAME = 'Aku ❤️';
-const YOUTUBE_MUSIC_ID = 'HEAn4FqXFY4'; // https://www.youtube.com/watch?v=awWKxGftWh4
+const YOUTUBE_MUSIC_ID = 'OT5msu-dap8'; // https://www.youtube.com/watch?v=awWKxGftWh4
 
 declare global {
   interface Window {
